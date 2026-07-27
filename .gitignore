@@ -1,0 +1,5 @@
+# Cấu hình công cụ local, không thuộc bài nộp
+.claude/
+
+# macOS
+.DS_Store
